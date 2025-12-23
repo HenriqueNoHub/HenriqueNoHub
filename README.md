@@ -35,9 +35,6 @@
 ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNoHub&theme=github-compact)
 
 ---
-### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." 
-— **Antoine de Saint-Exupéry**
---
 
 ## 🤝 Conecte-se comigo
 
@@ -52,3 +49,8 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
+---
+### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." 
+— **Antoine de Saint-Exupéry**
+
