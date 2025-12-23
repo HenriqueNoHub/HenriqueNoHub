@@ -1,6 +1,7 @@
 # Olá, eu sou Gustavo!
 
-### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." — **Antoine de Saint-Exupéry**
+### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." 
+— **Antoine de Saint-Exupéry**
 
 ---
 
