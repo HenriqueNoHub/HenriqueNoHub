@@ -1,8 +1,4 @@
 # Olá, eu sou Gustavo!
-
-### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." 
-— **Antoine de Saint-Exupéry**
-
 ---
 
 ## 🚀 Sobre mim
@@ -39,6 +35,9 @@
 ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNoHub&theme=github-compact)
 
 ---
+### > "A perfeição não é alcançada quando não há mais nada a incluir, mas sim quando não resta mais nada a retirar." 
+— **Antoine de Saint-Exupéry**
+--
 
 ## 🤝 Conecte-se comigo
 
