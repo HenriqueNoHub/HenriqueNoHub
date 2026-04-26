@@ -45,7 +45,7 @@
   <a href="mailto:gheds2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://pdflink.to/5c1e8e50/](https://www.behance.net/gustavohenrique50)" target="_blank">
+  <a href="www.behance.net/gustavohenrique50" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
